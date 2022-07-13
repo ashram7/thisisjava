@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.lang.StackOverflowError"/>
+<fullyQualifiedTypeName name="sec10.exam02_static_block.Television"/>
+<fullyQualifiedTypeName name="sec13.exam02_constructor_access.package1.A"/>
+<fullyQualifiedTypeName name="sec13.exam03_field_method_access.package1.A"/>
 </qualifiedTypeNameHistroy>
