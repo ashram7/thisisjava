@@ -1,4 +1,4 @@
-package chap07.sec02.exam01_inheritance;
+package sec02.exam01_inheritance.copy;
 
 public class DmbCellPhone extends CellPhone{
 	//ÇÊµå
