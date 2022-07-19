@@ -1,4 +1,4 @@
-package chap08.sec02.exam03_abstract_method;
+package sec02.exam03_abstract_method;
 
 import javax.xml.bind.annotation.adapters.XmlJavaTypeAdapter.DEFAULT;
 

@@ -8,4 +8,5 @@
 <fullyQualifiedTypeName name="sec13.exam03_field_method_access.package1.A"/>
 <fullyQualifiedTypeName name="sec13.exam01_class_access.package1.A"/>
 <fullyQualifiedTypeName name="sec07.exam04_array_management.Tire"/>
+<fullyQualifiedTypeName name="javax.xml.bind.annotation.adapters.XmlJavaTypeAdapter.DEFAULT"/>
 </qualifiedTypeNameHistroy>

@@ -1,4 +1,4 @@
-package chap08.sec02exam05_static_method;
+package sec02.exam05_static_method;
 
 public interface RemoteControl {
 	//»ó¼ö
