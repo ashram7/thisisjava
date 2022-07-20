@@ -9,4 +9,7 @@
 <fullyQualifiedTypeName name="sec13.exam01_class_access.package1.A"/>
 <fullyQualifiedTypeName name="sec07.exam04_array_management.Tire"/>
 <fullyQualifiedTypeName name="javax.xml.bind.annotation.adapters.XmlJavaTypeAdapter.DEFAULT"/>
+<fullyQualifiedTypeName name="sec03.exam01_name_implement_class.RemoteControl"/>
+<fullyQualifiedTypeName name="sec05.exam02_field_array.Tire"/>
+<fullyQualifiedTypeName name="sec05.exam03_method_polymorphism.Bus"/>
 </qualifiedTypeNameHistroy>
